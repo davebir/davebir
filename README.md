@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davebir
 - 👀 A full-time student learning Business Administration and Analytics
 - 🌱 I’m currently learning MYSQL, Python, & Tableau
-- 📫 How to reach me 801-906-1639
+- 📫 801-906-1639
 
 
 <!---
