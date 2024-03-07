@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davebir
 - 👀 A full-time student learning Business Administration and Analytics
-- 🌱 I’m currently learning MYSQL, Python, & Tableau
+- 🌱 Learning MYSQL, Python, & Tableau
 - 📫 801-906-1639
 
 
